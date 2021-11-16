@@ -1,11 +1,3 @@
 test 01
 
 jkvbskv
-<<<<<<< HEAD
-=======
-
-
-wdjhbwdbwwwwxw
-
-ajout d'une ligne
->>>>>>> 0ac289c9862a32bcd25c433f39e4b55f2350d87c
